@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AuthenticationLayout</string>
+    <string name="divider_text">OR</string>
+    <string name="disclaimer"><u>Terms &amp; Conditions</u></string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="username_email_hint">Username / Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_first">Welcome back!</string>
+    <string name="login_second">Log in to continue</string>
+    <string name="login_button">Log in</string>
+    <string name="login_alt_google">Log in with Google</string>
+    <string name="login_alt_facebook">Log in with Facebook</string>
+    <string name="login_forgot">Forgot password?</string>
+    <string name="register_first">Greetings!</string>
+    <string name="register_second">Register to continue</string>
+    <string name="register_button">Register</string>
+    <string name="register_alt_google">Register with Google</string>
+    <string name="register_alt_facebook">Register with Facebook</string>
+</resources>
