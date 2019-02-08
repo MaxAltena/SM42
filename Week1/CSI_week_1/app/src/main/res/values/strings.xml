@@ -11,4 +11,10 @@
     <string name="pre_bounty">Bounty:</string>
     <string name="details">Ik ben Mark Hendriks, en ik studeer op het Fontys in Eindhoven. Ik zit momenteel in semester 4 Media. In dit semester heb ik in principe gewoon 5 dagen school, maar 2 dagen daarvan zijn specialisatie. Ik heb als specialisatie smart mobile gekozen. Hier leer ik apps bouwen en designen. Naast het designen moet het natuurlijk ook bruikbaar zijn voor de gebruiker en er komt dus ook user experience aan bod. Dat is in hele grote lijnen wat de bedoeling is voor dit semester bij Smart Mobile.</string>
     <string name="report">Report</string>
+    <string name="gps_position">GPS position</string>
+    <string name="take_picture">Take picture</string>
+    <string name="call">Call 112</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="pre_details">Details:</string>
 </resources>
