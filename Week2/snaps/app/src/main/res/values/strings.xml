@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">snaps</string>
+    <string name="take_photo">Take snap</string>
+    <string name="image">image</string>
+</resources>
